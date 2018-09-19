@@ -1,10 +1,10 @@
 td, th {
-	vertical-align: middle !important;
-	text-align:center !important;
+    vertical-align: middle !important;
+    text-align:center !important;
 }
 
 svg {
-	height: 150px;
+    height: 150px;
 }
 
 td:first-of-type, td:first-of-type > div {
@@ -13,27 +13,27 @@ td:first-of-type, td:first-of-type > div {
 }
 
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
 }
 
 .App-header {
-  background-color: #222;
-  height: 120px;
-  padding: 20px;
-  color: white;
+    background-color: #222;
+    height: 120px;
+    padding: 20px;
+    color: white;
 }
 
 .App-title {
-  font-size: 1.5em;
+    font-size: 1.5em;
 }
 
 .App-intro {
-  font-size: large;
+    font-size: large;
 }
 
 .searchbar {
@@ -42,6 +42,6 @@ td:first-of-type, td:first-of-type > div {
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
 }

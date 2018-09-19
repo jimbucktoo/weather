@@ -1,11 +1,9 @@
 import React, {Component} from 'react';
 
-console.log('1',google);
 const google = window.google;
 class GoogleMap extends Component {
 
     componentDidMount() {
-        console.log('2', google);
         new google.maps.Map(this.refs.map,{
             zoom: 12,
             center: {

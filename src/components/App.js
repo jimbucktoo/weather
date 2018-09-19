@@ -17,7 +17,7 @@ class App extends Component {
                 <SearchBar />
                 <br />
                 <div className="container">
-                <WeatherList />
+                    <WeatherList />
                 </div>
                 <br />
             </div>
